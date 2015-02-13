@@ -76,7 +76,7 @@ Submitting a pull request can be described as the process of asking the maintain
 
 To do so, in Ironboard click the title of the lab to go to Flatiron Schools copy.
 
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0.jpg" alt="Ironboard Labs Step 0">
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg" alt="Ironboard Labs Step 0b">
 
 This will take you back to the Ironboard copy you originally forked from. Then click the Pull Requests link from the right sidebar.
 
