@@ -48,11 +48,11 @@ Note: You should replace the &lt;paste the clone URL here&gt; including the &lt;
 
 Now we can work on the lab locally and even offline if we wish. Let's change directory into the folder for the lab ♥ `cd <lab-directory-name>`
 
-<!-- <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2c.png" alt="Ironboard Labs Step 2c"> -->
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2c.jpg" alt="Ironboard Labs Step 2c">
 
 Then bring the lab up in Sublime text by typing ♥ `subl .`
 
-<!-- <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2d.png" alt="Ironboard Labs Step 2d"> -->
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2d.jpg" alt="Ironboard Labs Step 2d">
 
 Follow the instructions in **README.md** file to complete the lab.
 
