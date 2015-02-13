@@ -70,7 +70,7 @@ Note: The standard for labs would be to push to your (personal) remote named ori
 
 ### 5. Submit A Pull Request ###
 
-Submitting a pull request can be described as the process of asking the maintainer of the Ironboard lab (upstream remote) to consider pulling (merging) in your work from your personal remote copy (origin remote). This enables your instructor to see your solution for the lab.
+Submitting a pull request can be described as the process of asking the maintainer of the Ironboard lab (upstream remote) to consider pulling (fetching & merging) in your work from your personal remote copy (origin remote). This enables your instructor to see your solution for the lab.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png" alt="Git Workflow 5">
 
