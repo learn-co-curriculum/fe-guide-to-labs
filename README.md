@@ -102,6 +102,6 @@ Then click Create pull request button again.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg" alt="Ironboard Labs Step 4f">
 
-That's it your done! Now go back to Ironboard and click the Done with Lab button
+That's it your done! Now go back to Ironboard and click the I'm Done button
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4g.jpg" alt="Ironboard Labs Step 4g">
