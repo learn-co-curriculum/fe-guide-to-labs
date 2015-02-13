@@ -11,7 +11,7 @@ This guide is meant as a reference that provides the detailed steps to go throug
 
 ### 1. Fork ###
 
-Forking is the process making a personal remote copy of the Ironboard lab.
+Forking is the process of making a personal remote copy of the Ironboard lab.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png" alt="Git Workflow 1">
 
