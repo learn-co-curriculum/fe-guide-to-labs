@@ -66,7 +66,7 @@ Note: inside the quotes you want to put a message about what you did in this com
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-4.png" alt="Git Workflow 4">
 
 After adding and commiting your most recent work next we want to push our work up to our personal Github remote (origin). To push up to your remote type ♥ `git push <remote-name> <branch-name>`  
-Note: The standard for labs would be to push to your (personal) remote named origin. By default you would push the work on your master branch. Example: ♥ `git push origin master`
+Note: The standard for labs would be to push to your (personal) remote named origin. By default you would push the work on your master branch. Example: ♥ git push origin master
 
 ### 5. Submit A Pull Request ###
 
