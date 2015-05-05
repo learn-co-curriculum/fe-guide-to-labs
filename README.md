@@ -5,21 +5,21 @@ type: lecture
 resources: 0
 ---
 
-## Ironboard - Lab Guide ##
+## Learn - Lab Guide ##
 
-This guide is meant as a reference that provides the detailed steps to go through when working on labs in Ironboard. You can come back to this reference later if you forget any of the steps below.
+This guide is meant as a reference that provides the detailed steps to go through when working on labs in Learn. You can come back to this reference later if you forget any of the steps below.
 
 ### 1. Fork ###
 
-Forking is the process of making a personal remote copy of the Ironboard lab.
+Forking is the process of making a personal remote copy of the Learn lab.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png" alt="Git Workflow 1">
 
-To get started, in Ironboard click the title of the lab to go to Flatiron School's copy of the lab on Github.
+To get started, in Learn click the title of the lab to go to Learn's copy of the lab on Github.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0.jpg" alt="Ironboard Labs Step 0">
 
-Next on Flatiron's Github page for the lab click the Fork button.
+Next on Learn Co Students's Github page for the lab click the Fork button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg" alt="Ironboard Labs Step 1">
 
@@ -70,29 +70,17 @@ Note: The standard for labs would be to push to your (personal) remote named ori
 
 ### 5. Submit A Pull Request ###
 
-Submitting a pull request can be described as the process of asking the maintainer of the Ironboard lab (upstream remote) to consider pulling (fetching & merging) in your work from your personal remote copy (origin remote). This enables your instructor to see your solution for the lab.
+Submitting a pull request can be described as the process of asking the maintainer of the Learn lab (upstream remote) to consider pulling (fetching & merging) in your work from your personal remote copy (origin remote). This enables your instructor to see your solution for the lab.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png" alt="Git Workflow 5">
 
-To do so, in Ironboard click the title of the lab to go to Flatiron Schools copy.
+To do so, in Learn click the title of the lab to go to your forked copy on Github.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg" alt="Ironboard Labs Step 0b">
 
-This will take you back to the Ironboard copy you originally forked from. Then click the Pull Requests link from the right sidebar.
+This will take you back to the Learn copy you originally forked from. Then click the green Pull Request button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg" alt="Ironboard Labs Step 4">
-
-Next, click the New pull request button.
-
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4b.jpg" alt="Ironboard Labs Step 4b">
-
-Then click the compare across forks link.
-
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4c.jpg" alt="Ironboard Labs Step 4c">
-
-Then click the drop down menu for the head fork and select yourself from the list.
-
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4d.jpg" alt="Ironboard Labs Step 4d">
 
 After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
 
@@ -102,6 +90,6 @@ Then click Create pull request button again.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg" alt="Ironboard Labs Step 4f">
 
-That's it your done! Now go back to Ironboard and click the I'm Done button
+That's it your done! Now go back to Learn and click the I'm Done button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4g.jpg" alt="Ironboard Labs Step 4g">
