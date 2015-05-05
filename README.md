@@ -78,7 +78,7 @@ To do so, in Learn click the title of the lab to go to your forked copy on Githu
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg" alt="Ironboard Labs Step 0b">
 
-This will take you back to the Learn copy you originally forked from. Then click the green Pull Request button.
+This will take you back to your forked copy of the lab on Github. Then click the green Pull Request button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg" alt="Ironboard Labs Step 4">
 
