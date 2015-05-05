@@ -19,7 +19,7 @@ To get started, in Learn click the title of the lab to go to Learn's copy of the
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0.jpg" alt="Ironboard Labs Step 0">
 
-Next on Learn Co Students's Github page for the lab click the Fork button.
+Next at learn-co-students Github page for the lab click the Fork button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg" alt="Ironboard Labs Step 1">
 
