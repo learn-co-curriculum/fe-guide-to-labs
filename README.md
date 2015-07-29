@@ -1,9 +1,4 @@
----
-language: bash
-tags: git, work-flow, version control
-type: lecture
-resources: 0
----
+
 
 ## Learn - Lab Guide ##
 
