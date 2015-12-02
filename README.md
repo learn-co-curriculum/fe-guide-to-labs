@@ -88,3 +88,5 @@ Then click Create pull request button again.
 That's it your done! Now go back to Learn and click the I'm Done button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4g.jpg" alt="Ironboard Labs Step 4g">
+
+<a href='https://learn.co/lessons/fe-guide-to-labs' data-visibility='hidden'>View this lesson on Learn.co</a>
