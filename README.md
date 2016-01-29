@@ -89,4 +89,4 @@ That's it your done! Now go back to Learn and click the I'm Done button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4g.jpg" alt="Ironboard Labs Step 4g">
 
-<a href='https://learn.co/lessons/fe-guide-to-labs' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-guide-to-labs' title='Learn - Lab Guide'>Learn - Lab Guide</a> on Learn.co and start learning to code for free.</p>
