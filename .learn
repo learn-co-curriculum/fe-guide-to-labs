@@ -1,10 +1,10 @@
-language: 
+languages:
   - bash
-tags: 
+tags:
   - git
   - work-flow
   - version control
-type: 
+type:
   - lecture
 resources:
   - 0
